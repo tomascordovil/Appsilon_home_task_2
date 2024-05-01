@@ -66,8 +66,8 @@
             responses:
                     'first prompt': y
 
-  - name: Install Terraform
-    expect:
-            command: sudo apt update && sudo apt install terraform
-            responses:
-                    'first prompt': y
+  #- name: Install Terraform
+  #  expect:
+  #          command: sudo apt update && sudo apt install terraform
+  #          responses:
+  #                  'first prompt': y
